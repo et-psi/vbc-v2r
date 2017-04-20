@@ -45,7 +45,7 @@
 						</ul>
 					  </li>
 				    <li class="dropdown">
-						<a href="schedule.html" class="dropdown-toggle" data-toggle="dropdown">Loisir<b class="caret"></b></a>
+						<a href="schedule.html" class="dropdown-toggle" data-toggle="dropdown">Loisirs<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="equipe-loisir1.php">Loisir 1</a></li>
 						</ul>
