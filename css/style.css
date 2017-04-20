@@ -469,7 +469,7 @@ label{
     font-size: 1em;
 }
 /*--main-content--*/
-}
+/*}*/
 /******** SAP ************/
 .sap_tabs{
 	clear:both;
@@ -485,7 +485,7 @@ label{
     -o-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
-    min-height: 337px;
+    min-height: 1100px;
 }
 .top1{
 	margin-top: 2%;
