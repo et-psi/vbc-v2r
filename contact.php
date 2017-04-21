@@ -29,60 +29,18 @@
 	 <div class="subhead white">
              <?php
              // include navigation bar
-                include_once 'menu.php';
+                $homeSiteDir = './';
+                include_once $homeSiteDir.'include/menu.php';
              ?>
 		
   </div>
  </div>
-   <!--/start-banner-->
-  <div class="banner">
-	       <div class="banner-inner">
-						<div class="callbacks_container">
-						<ul class="rslides callbacks callbacks1" id="slider4">
-							<li class="callbacks1_on" style="display: block; float: left; position: relative; opacity: 1; z-index: 2; transition: opacity 500ms ease-in-out;">
-								<div class="banner-info">
-								<h3>FORMATION, LE MEILLEUR DE SOI </h3>
-								<p>A partir de 7ans, fille ou garçon notre club t'accueille</p>
-								</div>
-							</li>
-							<li class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out;">
-								<div class="banner-info">
-								<h3>CHAMPIONNATS </h3>
-								 <p>Participation aux championnats cantonaux et nationaux</p>
-								</div>
-							</li>
-							<li class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out;">
-								<div class="banner-info">
-								<h3>MAIS AVANT TOUT...</h3>
-								<p>Le plasir reste notre motivation principale</p>
-								</div>	
-							</li>
-						</ul>
-						</div>
-						<!--banner-Slider-->
-						<script src="js/responsiveslides.min.js"></script>
-						 <script>
-						// You can also use "$(window).load(function() {"
-						$(function () {
-						  // Slideshow 4
-						  $("#slider4").responsiveSlides({
-						auto: true,
-						pager: true,
-						nav:false,
-						speed: 500,
-						namespace: "callbacks",
-						before: function () {
-						  $('.events').append("<li>before event fired.</li>");
-						},
-						after: function () {
-						  $('.events').append("<li>after event fired.</li>");
-						}
-						  });
-
-						});
-						  </script>
-				</div>
+      <!--/start-banner-->
+  <div class="banner two">
+     <div class="container">
+	       
         </div>
+  </div>
     <!--//end-banner-->
      <!--/start-main-->
           <div class="main-content">

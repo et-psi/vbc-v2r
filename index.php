@@ -29,7 +29,8 @@
 	 <div class="subhead white">
              <?php
              // include navigation bar
-                include_once 'menu.php';
+                $homeSiteDir = './';
+                include_once $homeSiteDir.'include/menu.php';
              ?>
 		
   </div>
@@ -281,19 +282,42 @@
 
                                         <!--/top-news-->
                                                  <div class="top-news">
-								 <h4 class="side">News</h4>
-							      <div class="top-inner">
-								     <div class="top-text">
-										 <a href="single.html"><img src="images/side.jpg" class="img-responsive" alt=""/></a>
-										 <h5 class="top"><a href="single.html">Nulla quis lorem neque, mattis venenatis</a></h5>
-										 <p>25/04/2017 </p>
-								     </div>
-								     <div class="top-text">
-										 <a href="single.html"><img src="images/side.jpg" class="img-responsive" alt=""/></a>
-										 <h5 class="top"><a href="single.html">Nulla quis lorem neque, mattis venenatis</a></h5>
-										 <p>25/04/2017 </p>
-								     </div>
-								  </div>
+                                                    <?php
+                                                    $news['none']='Rien de nouveau';
+                                                    if (file_exists("news/news.csv"))
+                                                    {
+                                                        if (($handle = fopen("news/news.csv", "r")) !== FALSE) {
+                                                          while (($data = fgetcsv($handle, 1000, ";")) !== FALSE) {
+                                                            $news[$data[0]]=$data[1];
+                                                          }
+                                                          fclose($handle);
+                                                        }
+                                                        $news = array_reverse($news);
+                                                    }
+                                                    ?>
+                                                    <h4 class="side">News</h4>
+                                                    <div class="top-inner">
+                                                    <?php
+                                                    //$files = scandir('news');
+                                                    foreach ($news as $key => $value) 
+                                                    { 
+                                                        if(file_exists('news/'.$key))
+                                                        {
+                                                           echo '<div class="top-text">
+                                                                        <img src="news/'.$key.'" class="img-responsive img-rounded" alt=""/>
+                                                                        <p>'.$value.'</p><br/><br/>
+                                                                </div>';
+                                                        }
+                                                        else
+                                                        {
+                                                           echo '<div class="top-text">
+                                                                        <p>'.$value.'</p><br/><br/>
+                                                                </div>';                                                                                                                   
+                                                        }
+                                                    } 
+                                                    ?>
+
+                                                    </div>
                                                 </div>
 					<!--//top-news-->
                                                  <img src="images/logo-noir-graduation.jpg" class="img-responsive img-circle" alt="Logo du club"> 
