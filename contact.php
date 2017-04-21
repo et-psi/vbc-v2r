@@ -59,11 +59,11 @@
 								</address>
 								<address>
 								  <strong>Président</strong><br>
-								  <a href="mailto:president.v2r@gmail.com">Envoyer un email</a>
+								  <a href="mailto:president@vbc-val-de-ruz.ch">Envoyer un email</a>
                                                                 </address>
 								<address>
 								  <strong>Responsable du  mouvement juniors</strong><br>
-								  <a href="mailto:responsable.juniors.v2r@gmail.com">Envoyer un email</a>
+								  <a href="mailto:responsable.juniors@vbc-val-de-ruz.ch">Envoyer un email</a>
                                                                 </address>
 						  </div>
 					</div>
