@@ -69,7 +69,7 @@
 					</div>
 					<div class="clearfix"> </div>
 			      </div>
-		         <h3 class="tittle find">Lieux des installation sportives</h3>
+		         <h3 class="tittle find">Installations sportives</h3>
                          <p><strong>La Fontenelle</strong></p>
 					<div class="map">						
                                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10871.092690718013!2d6.911587048120107!3d47.06429971562623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe2949ddf7fe3c99b!2scoll%C3%A8ge+de+la+fontenelle!5e0!3m2!1sfr!2sch!4v1492697203603"></iframe>
