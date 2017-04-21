@@ -77,58 +77,43 @@
                     </div>
                             
                             
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-
-
-
-
-
-
-                        </div>
-                </div>
-                <div class="clearfix"> </div>
+                 </div>
+            </div>
+            <div class="clearfix"> </div>
             <!--//soccer-inner-->
-	 </div>
-	<!--/start-footer-section-->
-			<div class="footer-section">
-			   <div class="container">
-					<div class="footer-grids">	
-					<div class="clearfix"></div>
-					</div>
-				</div>
-			</div>
-	<!--//end-footer-section-->
-			<!--/start-copyright-section-->
-				<div class="copyright">
-						  <p>&copy; VBC Val-de-ruz Sport. All Rights Reserved | Design by Psi </p>
-					</div>
+    </div>
+   <!--/start-footer-section-->
+                   <div class="footer-section">
+                      <div class="container">
+                                   <div class="footer-grids">	
+                                   <div class="clearfix"></div>
+                                   </div>
+                           </div>
+                   </div>
+   <!--//end-footer-section-->
+                   <!--/start-copyright-section-->
+                           <div class="copyright">
+                                             <p>&copy; VBC Val-de-ruz Sport. All Rights Reserved | Design by Psi </p>
+                                   </div>
 
 
-				<!--start-smoth-scrolling-->
-						<script type="text/javascript">
-									$(document).ready(function() {
-										/*
-										var defaults = {
-								  			containerID: 'toTop', // fading element id
-											containerHoverID: 'toTopHover', // fading element hover id
-											scrollSpeed: 1200,
-											easingType: 'linear' 
-								 		};
-										*/
-										
-										$().UItoTop({ easingType: 'easeOutQuart' });
-										
-									});
-								</script>
-		<a href="#home" id="toTop" class="scroll" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+                           <!--start-smoth-scrolling-->
+                                           <script type="text/javascript">
+                                                                   $(document).ready(function() {
+                                                                           /*
+                                                                           var defaults = {
+                                                                                   containerID: 'toTop', // fading element id
+                                                                                   containerHoverID: 'toTopHover', // fading element hover id
+                                                                                   scrollSpeed: 1200,
+                                                                                   easingType: 'linear' 
+                                                                           };
+                                                                           */
+
+                                                                           $().UItoTop({ easingType: 'easeOutQuart' });
+
+                                                                   });
+                                                           </script>
+           <a href="#home" id="toTop" class="scroll" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
 
 
 <!--JS-->
