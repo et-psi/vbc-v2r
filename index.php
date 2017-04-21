@@ -249,7 +249,7 @@
 																	<tr>
 																	<td class="one">Jeudi</td>
 																	<td class="one">19h45-21h30</td>
-																	<td class="one">Fontaines (Collègen)</td>
+																	<td class="one">Fontaines (Collège)</td>
 																	<td class="one">M17 filles (jusqu'à 15ans)</td>
 																	</tr>
 																</tbody>
