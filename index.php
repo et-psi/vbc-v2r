@@ -283,7 +283,7 @@
                                         <!--/top-news-->
                                                  <div class="top-news">
                                                     <?php
-                                                    $news['none']='Rien de nouveau';
+                                                    $news=array();
                                                     if (file_exists("news/news.csv"))
                                                     {
                                                         if (($handle = fopen("news/news.csv", "r")) !== FALSE) {
