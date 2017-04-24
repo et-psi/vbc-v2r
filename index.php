@@ -280,6 +280,21 @@
 						<div class="col-md-4 soccer-right-part">
 
 
+										<div class="top-news">
+											<h4 class="side">STAY CONNECTED</h4>
+											<div class="top-inner">
+												<div class="c5-element-facebook"><a href="https://www.facebook.com/groups/vbc.vdr/"><span class="icon"></span><span class="text">Suivez-nous...</span></a></div>
+											</div>
+										  </div>
+										  
+										  	<!--//connect-->						
+						
+						
+						
+						
+						
+						
+
                                         <!--/top-news-->
                                                  <div class="top-news">
                                                     <?php
