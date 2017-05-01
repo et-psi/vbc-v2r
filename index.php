@@ -204,28 +204,28 @@
 																<tr>
 																	<td class="one">Lundi</td>
 																	<td class="one">18h00-19h00</td>
-																	<td class="one">La Fontennelle (ancienne)</td>
+																	<td class="one">La Fontennlle (ancienne)</td>
 																	<td class="one">M13 garçons (jusqu'à 11ans)</td>
 																	
 																</tr>
 																<tr>
 																	<td class="one">Lundi</td>
 																	<td class="one">20h00-22h00</td>
-																	<td class="one">La Fontennelle</td>
+																	<td class="one">La Fontenelle</td>
 																	<td class="one">Ligue Féminine</td>
 																	
 																</tr>
 																<tr>
 																	<td class="one">Lundi</td>
 																	<td class="one">20h00-22h00</td>
-																	<td class="one">La Fontennelle (ancienne)</td>
+																	<td class="one">La Fontenelle (ancienne)</td>
 																	<td class="one">Loisirs mixte</td>
 																	
 																</tr>
 																<tr>
 																	<td class="one">Lundi</td>
 																	<td class="one">18h00-20h00</td>
-																	<td class="one">La Fontennelle (ancienne)</td>
+																	<td class="one">La Fontenelle (ancienne)</td>
 																	<td class="one">M15 filles (jusqu'à 13ans)</td>																	
 																</tr>
 																<tr>
@@ -237,13 +237,13 @@
 																<tr>
 																	<td class="one">Mercredi</td>
 																	<td class="one">19h45-21h30</td>
-																	<td class="one">La Fontennelle (ancienne)</td>
+																	<td class="one">La Fontenelle (ancienne)</td>
 																	<td class="one">M15 et M17 garçons (jusqu'à 15ans)</td>
 																</tr>
 																<tr>
 																	<td class="one">Mercredi</td>
 																	<td class="one">20h00-22h00</td>
-																	<td class="one">La Fontennelle</td>
+																	<td class="one">La Fontenelle</td>
 																	<td class="one">Ligue féminine</td>																	
 																</tr>
 																	<tr>
