@@ -203,7 +203,7 @@
 																<tbody>
 																<tr>
 																	<td class="one">Lundi</td>
-																	<td class="one">18h00-19h00</td>
+																	<td class="one">18h00-19h15</td>
 																	<td class="one">La Fontennlle (ancienne)</td>
 																	<td class="one">M13 garçons (jusqu'à 11ans)</td>
 																	
@@ -248,7 +248,7 @@
 																</tr>
 																<tr>
 																	<td class="one">Jeudi</td>
-																	<td class="one">19h00-20h30</td>
+																	<td class="one">19h00-20h45</td>
 																	<td class="one">Fontaines (Collège)</td>
 																	<td class="one">M17 filles (jusqu'à 15ans)</td>
 																</tr>
@@ -286,18 +286,38 @@
 						<div class="col-md-4 soccer-right-part">
 
 
+										<!--connected-->
 										<div class="top-news">
 											<h4 class="side">STAY CONNECTED</h4>
 											<div class="top-inner">
-												<div class="c5-element-facebook"><a href="https://www.facebook.com/groups/vbc.vdr/"><span class="icon"></span><span class="text">Suivez-nous...</span></a></div>
+												<div class="c5-element-facebook"><a href="https://www.facebook.com/groups/vbc.vdr/" target="blank"><span class="icon"></span><span class="text">Suivez-nous...</span></a></div>
 											</div>
 										  </div>
-										  
-										  	<!--//connect-->						
+										<!--//connected-->						
 						
 						
 						
-						
+										<!--agenda/Calendar-->
+										<div class="top-news">
+											<h4 class="side">Calendrier régional</h4>
+											<div class="top-inner">											
+												<p>Championnat régionaux</p>
+												<div class="c5-element-facebook">
+													<a class="btn btn-block" href="http://svrn.ch/indoor/championnat-regional" target="blank"> <span class="glyphicon glyphicon-info-sign"></span><span class="text"> SVRN</span></a>
+												</div>
+											</div>
+											<h4 class="side">Agenda du club</h4>
+											<div class="top-inner">											
+												<p>Prêtez attention à la catégorie !</br>
+													F-M15 signifie : filles M15 .</br>
+													M-M17 : garçons M17 </br>
+												</p>
+												<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=q5k0bfnlcda1grptie8tg0g68c%40group.calendar.google.com&amp;color=%23875509&amp;ctz=Europe%2FZurich"
+												style=" border:solid 1px #777 " width="300" height="300" frameborder="0" scrolling="no">
+												</iframe>
+											</div>
+										  </div>
+										  	<!--//agenda/Calendar-->								
 						
 						
 
